@@ -7,3 +7,7 @@ venv/
 # Archivos de caché de Python
 __pycache__/
 *.pyc
+
+app/seguridadlogin-fcc47-firebase-adminsdk-fbsvc-6a340e4b6b.json
+app/firebase_credentials.json
+*.env
